@@ -1,5 +1,5 @@
 # LINK
-### 공부일지 <a href="https://github.com/yeonhwa88/ai"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 공부일지 <a href="https://github.com/yeonhwa88/aidiary"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 1st PERSONAL PROJECT <a href="https://github.com/yeonhwa88/1stPersonalProject"><img src="https://img.shields.io/badge/PROJ[영화 데이터 분석 계절, 관객수 예측]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 2ed TEAM PROJECT <a href="https://github.com/yisy0703/1stPersonalProject"><img src="https://img.shields.io/badge/TEAMPRO[팀프로젝트이름변경예정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
 
